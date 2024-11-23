@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocialNetwork.Api", "SocialNetwork.Api\SocialNetwork.Api.csproj", "{BA849C0C-479E-45E9-8B7F-51B4535C761B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocialNetwork.Domain", "SocialNetwork.Domain\SocialNetwork.Domain.csproj", "{BE591EC0-3FEC-4EDB-87D9-75B8E7730510}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocialNetwork.Application", "SocialNetwork.Application\SocialNetwork.Application.csproj", "{6A9F96D3-CAAA-4384-84A3-C41F4A76D32B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocialNetwork.Infrastructure", "SocialNetwork.Infrastructure\SocialNetwork.Infrastructure.csproj", "{80F68257-DC37-4712-965E-3BD49F353F77}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA849C0C-479E-45E9-8B7F-51B4535C761B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA849C0C-479E-45E9-8B7F-51B4535C761B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA849C0C-479E-45E9-8B7F-51B4535C761B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA849C0C-479E-45E9-8B7F-51B4535C761B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE591EC0-3FEC-4EDB-87D9-75B8E7730510}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE591EC0-3FEC-4EDB-87D9-75B8E7730510}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE591EC0-3FEC-4EDB-87D9-75B8E7730510}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE591EC0-3FEC-4EDB-87D9-75B8E7730510}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A9F96D3-CAAA-4384-84A3-C41F4A76D32B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A9F96D3-CAAA-4384-84A3-C41F4A76D32B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A9F96D3-CAAA-4384-84A3-C41F4A76D32B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A9F96D3-CAAA-4384-84A3-C41F4A76D32B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80F68257-DC37-4712-965E-3BD49F353F77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80F68257-DC37-4712-965E-3BD49F353F77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80F68257-DC37-4712-965E-3BD49F353F77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80F68257-DC37-4712-965E-3BD49F353F77}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

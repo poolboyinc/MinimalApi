@@ -1,0 +1,12 @@
+C:\Users\Lenovo\RiderProjects\SocialNetwork\SocialNetwork.Domain\bin\Debug\net8.0\SocialNetwork.Domain.deps.json
+C:\Users\Lenovo\RiderProjects\SocialNetwork\SocialNetwork.Domain\bin\Debug\net8.0\SocialNetwork.Domain.dll
+C:\Users\Lenovo\RiderProjects\SocialNetwork\SocialNetwork.Domain\bin\Debug\net8.0\SocialNetwork.Domain.pdb
+C:\Users\Lenovo\RiderProjects\SocialNetwork\SocialNetwork.Domain\obj\Debug\net8.0\SocialNetwork.Domain.csproj.AssemblyReference.cache
+C:\Users\Lenovo\RiderProjects\SocialNetwork\SocialNetwork.Domain\obj\Debug\net8.0\SocialNetwork.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\RiderProjects\SocialNetwork\SocialNetwork.Domain\obj\Debug\net8.0\SocialNetwork.Domain.AssemblyInfoInputs.cache
+C:\Users\Lenovo\RiderProjects\SocialNetwork\SocialNetwork.Domain\obj\Debug\net8.0\SocialNetwork.Domain.AssemblyInfo.cs
+C:\Users\Lenovo\RiderProjects\SocialNetwork\SocialNetwork.Domain\obj\Debug\net8.0\SocialNetwork.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\RiderProjects\SocialNetwork\SocialNetwork.Domain\obj\Debug\net8.0\SocialNetwork.Domain.dll
+C:\Users\Lenovo\RiderProjects\SocialNetwork\SocialNetwork.Domain\obj\Debug\net8.0\refint\SocialNetwork.Domain.dll
+C:\Users\Lenovo\RiderProjects\SocialNetwork\SocialNetwork.Domain\obj\Debug\net8.0\SocialNetwork.Domain.pdb
+C:\Users\Lenovo\RiderProjects\SocialNetwork\SocialNetwork.Domain\obj\Debug\net8.0\ref\SocialNetwork.Domain.dll

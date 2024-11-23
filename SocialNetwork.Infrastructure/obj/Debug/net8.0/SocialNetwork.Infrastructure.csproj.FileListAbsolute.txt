@@ -1,0 +1,17 @@
+C:\Users\Lenovo\RiderProjects\SocialNetwork\SocialNetwork.Infrastructure\bin\Debug\net8.0\SocialNetwork.Infrastructure.deps.json
+C:\Users\Lenovo\RiderProjects\SocialNetwork\SocialNetwork.Infrastructure\bin\Debug\net8.0\SocialNetwork.Infrastructure.dll
+C:\Users\Lenovo\RiderProjects\SocialNetwork\SocialNetwork.Infrastructure\bin\Debug\net8.0\SocialNetwork.Infrastructure.pdb
+C:\Users\Lenovo\RiderProjects\SocialNetwork\SocialNetwork.Infrastructure\bin\Debug\net8.0\SocialNetwork.Application.dll
+C:\Users\Lenovo\RiderProjects\SocialNetwork\SocialNetwork.Infrastructure\bin\Debug\net8.0\SocialNetwork.Domain.dll
+C:\Users\Lenovo\RiderProjects\SocialNetwork\SocialNetwork.Infrastructure\bin\Debug\net8.0\SocialNetwork.Application.pdb
+C:\Users\Lenovo\RiderProjects\SocialNetwork\SocialNetwork.Infrastructure\bin\Debug\net8.0\SocialNetwork.Domain.pdb
+C:\Users\Lenovo\RiderProjects\SocialNetwork\SocialNetwork.Infrastructure\obj\Debug\net8.0\SocialNetwork.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Lenovo\RiderProjects\SocialNetwork\SocialNetwork.Infrastructure\obj\Debug\net8.0\SocialNetwork.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\RiderProjects\SocialNetwork\SocialNetwork.Infrastructure\obj\Debug\net8.0\SocialNetwork.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Lenovo\RiderProjects\SocialNetwork\SocialNetwork.Infrastructure\obj\Debug\net8.0\SocialNetwork.Infrastructure.AssemblyInfo.cs
+C:\Users\Lenovo\RiderProjects\SocialNetwork\SocialNetwork.Infrastructure\obj\Debug\net8.0\SocialNetwork.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\RiderProjects\SocialNetwork\SocialNetwork.Infrastructure\obj\Debug\net8.0\SocialNetwork.Infrastructure.csproj.CopyComplete
+C:\Users\Lenovo\RiderProjects\SocialNetwork\SocialNetwork.Infrastructure\obj\Debug\net8.0\SocialNetwork.Infrastructure.dll
+C:\Users\Lenovo\RiderProjects\SocialNetwork\SocialNetwork.Infrastructure\obj\Debug\net8.0\refint\SocialNetwork.Infrastructure.dll
+C:\Users\Lenovo\RiderProjects\SocialNetwork\SocialNetwork.Infrastructure\obj\Debug\net8.0\SocialNetwork.Infrastructure.pdb
+C:\Users\Lenovo\RiderProjects\SocialNetwork\SocialNetwork.Infrastructure\obj\Debug\net8.0\ref\SocialNetwork.Infrastructure.dll
